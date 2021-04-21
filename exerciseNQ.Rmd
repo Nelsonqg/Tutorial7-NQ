@@ -1,0 +1,6 @@
+---
+title: "exerciseNQ"
+author: "Nelson Quintero"
+date: "21/04/2021"
+output: html_document
+---
